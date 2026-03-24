@@ -98,7 +98,7 @@ notebooks = {
 ('Lottery', 2019, 'RiddlerLottery.ipynb',  'Can you find what lottery number tickets these five friends picked?'),
 ('How Many Soldiers to Beat the Night King?', 2019, 'NightKing.ipynb',  'A battle between the army of the dead and the army of the living'),
 ('Misanthropic Neighbors', 2017, 'Mean%20Misanthrope%20Density.ipynb', 'How crowded will this neighborhood be, if nobody wants to live next door to anyone else?'),
-('Properly Ordered Card Hands', 2018, 'Orderable%20Cards.ipynb', 'Can you get your hand of cards into a nice order with just one move?'),
+('Properly Organized Card Hands', 2018, 'Orderable%20Cards.ipynb', 'Can you get your hand of cards into a nice order with just one move?'),
 ('Race Track', 2021, 'RaceTrack.ipynb', 'Race virtual cars around a circular track defined on a grid of points.'),
 ('Split the States', 2021, 'SplitStates.ipynb', 'Split the US states into two near-halves by area.'),
 ('Tour de 538', 2020, 'TourDe538.ipynb', 'Solve a puzzle involving the best pace for a bicycle race.'),
